@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpunit/phpunit": "^10.0",
+        "ezyang/htmlpurifier": "^4.16",
+        "twig/twig": "^3.5"
+    }
+}
